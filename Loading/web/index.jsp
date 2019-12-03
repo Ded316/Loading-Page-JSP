@@ -2,6 +2,7 @@
     Document   : index
     Created on : 02-dic-2019, 15:46:00
     Author     : Daniel
+    Ayuda de https://stackoverflow.com/questions/32476073/display-loading-gif-while-java-code-on-jsp-site-is-performed
 --%>
 <%@ page language="java" contentType="text/html; charset=utf-8"%>
 
